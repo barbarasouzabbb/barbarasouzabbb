@@ -1,16 +1,16 @@
-## Hi there 👋
+boas vindas ao meu perfil.
 
-<!--
-**barbarasouzabbb/barbarasouzabbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   Meu nome é Barbara.
+   
+- sou estudante do [Alura](https://www.alura.com.br)
+- estou desenvolvendo um projeto na linguagem do javascript.
+- utilizo esse espaço para minha organização e compartilhar os meus projetos.
 
-Here are some ideas to get you started:
+    você pode entrar em contato comigo.
+0000109432890xsp@al.educacao.sp.gov.br   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@barbarasouzabbb
+
+
+
+![](https://media1.tenor.com/m/HpHfzJWSDVYAAAAC/inside-out-2-envy.gif)
